@@ -334,12 +334,12 @@
 						LastSwiftMigration = 1420;
 					};
 					257D1491297A58220095689E = {
-						CreatedOnToolsVersion = 14.2;
+						CreatedOnToolsVersion = 17.0;
 					};
 				};
 			};
 			buildConfigurationList = 250B50C72953D12500397038 /* Build configuration list for PBXProject "CarTube" */;
-			compatibilityVersion = "Xcode 13.0";
+			compatibilityVersion = "Xcode 14.3.1";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -670,7 +670,7 @@
 				INFOPLIST_FILE = PlayOnCarTube/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Play On CarTube";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
